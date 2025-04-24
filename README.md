@@ -1,45 +1,58 @@
-# Ultralytics requirements
-# Example: pip install -r requirements.txt
 
-# Base ----------------------------------------
-matplotlib>=3.3.0
-numpy>=1.22.2 # pinned by Snyk to avoid a vulnerability
-opencv-python>=4.6.0
-pillow>=7.1.2
-pyyaml>=5.3.1
-requests>=2.23.0
-scipy>=1.4.1
-torch>=1.8.0
-torchvision>=0.9.0
-tqdm>=4.64.0
 
-# Logging -------------------------------------
-# tensorboard>=2.13.0
-# dvclive>=2.12.0
-# clearml
-# comet
+# OmniCrater-DETR: A Transformer-Based Framework for Cross-Scale Crater Detection on Planetary Surfaces
 
-# Plotting ------------------------------------
-pandas>=1.1.4
-seaborn>=0.11.0
+ OmniCrater-DETR, a lightweight Transformer-based framework designed for robust crater detection across scales and terrains.
 
-# Export --------------------------------------
-# coremltools>=7.0  # CoreML export
-# onnx>=1.12.0  # ONNX export
-# onnxsim>=0.4.1  # ONNX simplifier
-# nvidia-pyindex  # TensorRT export
-# nvidia-tensorrt  # TensorRT export
-# scikit-learn==0.19.2  # CoreML quantization
-# tensorflow>=2.4.1  # TF exports (-cpu, -aarch64, -macos)
-# tflite-support
-# tensorflowjs>=3.9.0  # TF.js export
-# openvino-dev>=2023.0  # OpenVINO export
+<!-- PROJECT SHIELDS -->
 
-# Extras --------------------------------------
-psutil  # system utilization
-py-cpuinfo  # display CPU info
-thop>=0.1.1  # FLOPs computation
-# ipython  # interactive notebook
-# albumentations>=1.0.3  # training augmentations
-# pycocotools>=2.0.6  # COCO mAP
-# roboflow
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+
+###### Configuration before development
+
+1. xxxxx x.x.x
+2. xxxxx x.x.x
+
+###### Installation Steps
+
+1. Get a free API Key at [https://example.com](https://example.com)
+2. Clone the repo
+
+```sh
+git clone https://github.com/shaojintian/Best_README_template.git
+```
+
+
+
+
+
+
+
+### Contributors
+
+
+
+#### How to participate in open source projects
+
+Contributions make the open source community a great place to learn, inspire, and create. Any contribution you make is **very much appreciated**.
+
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+
+
+
+
+
