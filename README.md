@@ -14,23 +14,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
-###### Configuration before development
-
-1. xxxxx x.x.x
-2. xxxxx x.x.x
-
-###### Installation Steps
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-
-```sh
-git clone https://github.com/shaojintian/Best_README_template.git
-```
-
-This project is developed based on ultralytics.
-
 ---
 
 🧪 Experimental Environment:
@@ -47,7 +30,7 @@ mmcv: 2.1.0
 mmengine: 0.9.0
 
 
-
+%%%% This project is developed based on ultralytics.
 1. **Uninstall the `ultralytics` library** completely from your environment by running:  
    ```bash
    pip uninstall ultralytics
@@ -82,6 +65,11 @@ mmengine: 0.9.0
 
 5. During runtime, if you encounter any missing package errors, please install them manually as needed.
 
+
+
+
+### Dataset
+How to obtain PLANET CRATER DETECTION DATASET (PCDD):
 
 
 ### Contributors
