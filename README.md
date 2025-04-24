@@ -69,10 +69,8 @@ mmengine: 0.9.0
 
 
 ### Dataset
-How to obtain PLANET CRATER DETECTION DATASET (PCDD):
+How to obtain PLANET CRATER DETECTION DATASET (PCDD):https://github.com/Chuan-lz/PCDD.git
 
-
-### Contributors
 
 
 
