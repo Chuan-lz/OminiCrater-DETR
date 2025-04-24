@@ -14,7 +14,23 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
+<p align="center">
+  <a href="https://github.com/Chuan-lz/OminiCrater-DETR/">
+    <img src="images/logo.png" alt="Logo" width="140" height="80">
+  </a>
+
+
+  <p align="center">
+  Detection effect preview
+    <br />
+    <a href="https://github.com/Chuan-lz/OminiCrater-DETR"><strong>Explore the project's documentation »</strong></a>
+    <br />
+
+
+
+
 ---
+
 
 🧪 Experimental Environment:
 Python: 3.9
