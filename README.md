@@ -16,12 +16,12 @@
 
 <p align="center">
   <a href="https://github.com/Chuan-lz/OminiCrater-DETR/">
-    <img src="images/logo.png" alt="Logo" width="140" height="80">
+    <img src="logo.png" alt="Logo" width="140" height="80">
   </a>
 
 
   <p align="center">
-  Detection effect preview
+   Comparison of our method with the baseline RT-DETR detection results.Red circles indicate correct detections, green circles indicate missed detections.
     <br />
     <a href="https://github.com/Chuan-lz/OminiCrater-DETR"><strong>Explore the project's documentation »</strong></a>
     <br />
