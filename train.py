@@ -10,7 +10,7 @@ from time import sleep
    
 if __name__ == '__main__':    
     model = RTDETR('ultralytics/cfg/models/OminiCrater_DETR.yaml')
-    # model.load('/home/lz/work_dir/RTDETR-20241118/RTDETR-main/weights/rtdetr-r18.pt') # loading pretrain weights  
+    # model.load('') # loading pretrain weights  
     model.train(data='dataset/data.yaml',
                 cache=False,
                 imgsz=768,
