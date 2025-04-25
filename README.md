@@ -11,7 +11,21 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+<!-- links -->
+[your-project-path]:Chuan-lz/OminiCrater-DETR
+[contributors-shield]: https://img.shields.io/github/contributors/Chuan-lz/OminiCrater-DETR.svg?style=flat-square
+[contributors-url]: https://github.com/Chuan-lz/OminiCrater-DETR/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Chuan-lz/OminiCrater-DETR.svg?style=flat-square
+[forks-url]: https://github.com/Chuan-lz/OminiCrater-DETR/network/members
+[stars-shield]: https://img.shields.io/github/stars/Chuan-lz/OminiCrater-DETR.svg?style=flat-square
+[stars-url]: https://github.com/Chuan-lz/OminiCrater-DETR/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Chuan-lz/OminiCrater-DETR.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/Chuan-lz/OminiCrater-DETR.svg
+[license-shield]: https://img.shields.io/github/license/Chuan-lz/OminiCrater-DETR.svg?style=flat-square
+[license-url]: https://github.com/Chuan-lz/OminiCrater-DETR/blob/master/LICENSE.txt
+
 
 
 <p align="center">
