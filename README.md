@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/Chuan-lz/OminiCrater-DETR/">
-    <img src="logo.png" alt="Logo" width="1000" height="400">
+    <img src="logo.png" alt="Logo" width="1000" height="350">
   </a>
 
 
